@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Нарисовать соты
 int main(void)
 {
     printf("  __    __\n");

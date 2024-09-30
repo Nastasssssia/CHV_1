@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Вывести на экран текст "лесенкой"
 int main(void)
 {
     printf("Let's\n");

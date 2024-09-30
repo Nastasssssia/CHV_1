@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Вывести на экран рисунок из букв
+
 int main(void)
 {
     printf("   *\n");

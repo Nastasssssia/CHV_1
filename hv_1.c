@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Вывести на экран “Hello world!”
 int main(void)
 {
 
